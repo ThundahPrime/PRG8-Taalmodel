@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.3.46",
+    "@langchain/core": "^0.3.58",
+    "@langchain/openai": "^0.5.13",
+    "@langchain/textsplitters": "^0.1.0",
+    "faiss-node": "^0.5.1"
+  }
+}
